@@ -6,10 +6,10 @@ import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
-// Title: Declaration
-// Author: Deepseek
+// Title: Declarations
+// Author: Kotlin programming logic
 // Version: 1.0
-// Available: https://chat.deepseek.com/a/chat/s/a1735a7b-9533-4e1f-9a78-4e46a2602ad4
+// Available: https://kotlinlang.org/spec/declarations.html
 
 class MainActivity : AppCompatActivity() {
     // Declare UI components
@@ -100,7 +100,10 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-
+// Title: Variables
+// Author:W3schools
+// Version: 1.0
+// Available: https://www.w3schools.com/java/java_variables_print.asp
 
 
 
