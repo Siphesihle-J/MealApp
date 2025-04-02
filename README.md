@@ -39,25 +39,34 @@
     git clone https://github.com/username/meal-suggestions.git
   2.Open the project in Android Studio
   3.Build and run the application on an emulator or physical device
-###Usage Instructions
+### Usage Instructions
   1.Enter the time of day in the input field (morning, mid-morning, afternoon, mid-afternoon, dinner, or after dinner)
   2.Tap the "Suggest a Meal" button to receive a meal recommendation
   3.Use the "Reset" button to clear the input and suggestion
-###GitHub Actions
+### GitHub Actions
   The project uses GitHub Actions for continuous integration to ensure code quality and build consistency:
   •	Automatic building of the application
   •	Running lint checks
   •	Generating debug APK for testing
-###Project Structure
+### Project Structure
   •	MainActivity.kt: Contains the main logic for handling user input and generating meal suggestions
   •	activity_main.xml: Defines the user interface layout
   •	.github/workflows/android.yml: Configuration for GitHub Actions
-###Future Enhancements
+### Future Enhancements
   •	Add a dropdown menu for time selection
   •	Include meal images
   •	Implement user preferences for dietary restrictions
   •	Add a feature to save favorite meals
-##Contact
+## Refrencing 
+ -Kotlin programming logic, 2025. Declarations (version 2.0) [Source Code]
+  Available at: https://kotlinlang.org/spec/declarations.html
+ -w3schools, 2025. Kotlin If ... Else (version 1.0) [source code]
+  Available at: https://www.w3schools.com/programming/prog_if.php
+ -W3schools, 2025. Variables (version 1.0) [source code]
+  Available at: https://www.w3schools.com/java/java_variables_print.asp
+ -Canva, 2025. Image (version 1.0) [source code]
+  Available at: https://www.canva.com/design/DAGjUgA-o00/m3mm80HFYI5O1OcQ9rJvrA/edit
+## Contact
 [St10479775 - Siphesihle Jali]
 
 https://github.com/Siphesihle-J/MealApp.git
